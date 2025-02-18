@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eventzilla.attendee.app",
+      "sha256_cert_fingerprints":
+      ["85:35:B8:59:EA:C0:AE:72:8B:7E:82:46:6A:1E:B3:C9:8C:71:ED:D3:2D:5F:1E:0A:5F:17:FE:A1:16:5F:39:ED"]
+    }
+}]
